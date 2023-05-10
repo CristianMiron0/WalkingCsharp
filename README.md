@@ -2,7 +2,7 @@
 
 # Instrucciones de instalacion
 
-- Clonar el repositorio 
+- Clonar el repositorio
   - `git clone url https://github.com/CristianMiron0/FinalCSharp.git`
 
 - .NET Version: net7.0
