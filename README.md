@@ -3,7 +3,7 @@
 # Instrucciones de instalacion
 
 - Clonar el repositorio
-  - `git clone url https://github.com/CristianMiron0/FinalCSharp.git`
+  - `git clone url https://github.com/CristianMiron0/WalkingCsharp.git`
 
 - .NET Version: net7.0
 
